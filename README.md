@@ -1,2 +1,4 @@
-# MyAcademicPortfolio
-Brief introduction
+- 👋 Hi, I’m Reymart K. Respecia
+- 👀 I’m interested in computers, generally.
+- 🌱 I’m currently learning in MSU-IIT
+- 😄 Pronouns: He/Him
